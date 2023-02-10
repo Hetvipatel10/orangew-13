@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="643759bf-f079-4647-a28f-aaed61575f56" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/customlisteners/CustomListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/driverfactory/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/pages/AddUserPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/pages/AdminPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/pages/Dashboardpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/pages/ViewSystemUsersPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/webdriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orangehrmlive/demo/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orangehrmlive/demo/runners/reportng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orangehrmlive/demo/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orangehrmlive/demo/testsuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orangehrmlive/demo/testsuite/UsersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertifiles/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertifiles/log4j2.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2LNiyM4b2szlvC5YvA3zgxR3an7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Soft/junit/junit-4.12.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Homework\orange13\src\main\java\com\orangehrmlive\demo\webdriver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginTest.verifyUserShouldLoginSuccessFully">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="orange13" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="orange13" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.verifyThatTheLogoDisplayOnHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nopcommerce.demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.orangehrmlive.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.orangehrmlive.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.orangehrmlive.demo.testsuite.LoginTest" />
+      <option name="METHOD_NAME" value="verifyThatTheLogoDisplayOnHomePage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.verifyUserShouldLoginSuccessFully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nopcommerce.demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.orangehrmlive.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.orangehrmlive.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.orangehrmlive.demo.testsuite.LoginTest" />
+      <option name="METHOD_NAME" value="verifyUserShouldLoginSuccessFully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersTest.adminShouldAddUserSuccessFully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nopcommerce.demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.orangehrmlive.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.orangehrmlive.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.orangehrmlive.demo.testsuite.UsersTest" />
+      <option name="METHOD_NAME" value="adminShouldAddUserSuccessFully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersTest.searchTheUserCreatedAndVerifyIt" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nopcommerce.demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.orangehrmlive.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.orangehrmlive.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.orangehrmlive.demo.testsuite.UsersTest" />
+      <option name="METHOD_NAME" value="searchTheUserCreatedAndVerifyIt" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersTest.verifyThatAdminShouldDeleteTheUserSuccessFully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nopcommerce.demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.orangehrmlive.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.orangehrmlive.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.orangehrmlive.demo.testsuite.UsersTest" />
+      <option name="METHOD_NAME" value="verifyThatAdminShouldDeleteTheUserSuccessFully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTest.verifyUserShouldLoginSuccessFully" />
+        <item itemvalue="TestNG.LoginTest.verifyThatTheLogoDisplayOnHomePage" />
+        <item itemvalue="TestNG.UsersTest.adminShouldAddUserSuccessFully" />
+        <item itemvalue="TestNG.UsersTest.searchTheUserCreatedAndVerifyIt" />
+        <item itemvalue="TestNG.UsersTest.verifyThatAdminShouldDeleteTheUserSuccessFully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="643759bf-f079-4647-a28f-aaed61575f56" name="Changes" comment="" />
+      <created>1675718196269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675718196269</updated>
+    </task>
+    <servers />
+  </component>
+</project>
